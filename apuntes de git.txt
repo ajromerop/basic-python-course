@@ -1,0 +1,13 @@
+git init #para iniciar en consola
+
+git add -A #para añadir varios archivos
+
+git status #mirar el estado de los archivos
+
+git commit -m 'Descripción' #creamos la nueva versión de nuestro archivo con una descripción
+
+git log #para ver los commit que he hecho
+
+git diff #nos muestra las diferentes versiones o commit creadas
+
+git push -u #para actualizar el repositorio en github 
